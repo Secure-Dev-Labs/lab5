@@ -1,0 +1,19 @@
+{
+    "name": "lab5",
+    "version": "1.0.0",
+    "description": "Lab5 Attempting to create Jenkins Pipeline",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Secure-Dev-Labs/lab5.git"
+    },
+    "author": "TXMi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Secure-Dev-Labs/lab5/issues"
+    },
+    "homepage": "https://github.com/Secure-Dev-Labs/lab5#readme"
+}
